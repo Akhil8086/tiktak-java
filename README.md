@@ -1,2 +1,2 @@
-# tiktak-java
-java program to tiktak game 
+# tic-tak-java
+java program to tic-tak game 
